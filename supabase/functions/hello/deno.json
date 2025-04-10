@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@mylib": "../../../my-lib/index.ts"
+  }
+}
