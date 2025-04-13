@@ -1,5 +1,3 @@
 {
-  "imports": {
-    "@mylib": "../../../my-lib/index.ts"
-  }
+  "importMap": "../import_map.json"
 }
